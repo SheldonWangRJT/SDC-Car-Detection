@@ -31,3 +31,11 @@ Some example images for testing your pipeline on single frames are located in th
 **As an optional challenge** Once you have a working pipeline for vehicle detection, add in your lane-finding algorithm from the last project to do simultaneous lane-finding and vehicle detection!
 
 **If you're feeling ambitious** (also totally optional though), don't stop there!  We encourage you to go out and take video of your own, and show us how you would implement this project on a new video!
+
+The Output Result Video
+--- 
+
+The final result of my project is uploaded here in Youtube. Please click the following image or Link to check it out.
+[![IMAGE ALT TEXT HERE](https://github.com/SheldonWangRJT/SDC-Car-Detection/blob/master/pipeline_res1.png)
+
+https://www.youtube.com/watch?v=RV-QveGuuhM
